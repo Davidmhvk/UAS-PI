@@ -87,6 +87,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 https://github.com/Davidmhvk/UAS-PI/blob/main/FlowChart%20Algoritma.png
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+![Scratch](https://github.com/Davidmhvk/UAS-PI/assets/144786308/5efe6bca-844c-4849-9878-e0a849809b4e)
+
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
