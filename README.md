@@ -70,8 +70,10 @@ Setiap jenis mesin komputasi memiliki karakteristik dan kegunaan yang berbeda-be
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 ## Mencoba Console Sistem Operasi
+![Screenshot 2023-12-26 184718](https://github.com/Davidmhvk/UAS-PI/assets/144786308/7a7db5cd-16e1-4202-86c0-657632cb99ac)
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+![Screenshot 2023-12-26 184718](https://github.com/Davidmhvk/UAS-PI/assets/144786308/268c9f7a-b2b3-4c9f-8b4b-cb4f6e86f90d)
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
