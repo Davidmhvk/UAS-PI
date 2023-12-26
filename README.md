@@ -68,6 +68,7 @@ Contoh: IBM Watson.
 Setiap jenis mesin komputasi memiliki karakteristik dan kegunaan yang berbeda-beda, dan penggunaannya tergantung pada kebutuhan spesifik dalam suatu konteks aplikasi atau industri
 
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+![google colab](https://github.com/Davidmhvk/UAS-PI/assets/144786308/ebcfd79c-36d7-4f9e-b7b5-73cb808c4638)
 
 ## Mencoba Console Sistem Operasi
 ![Screenshot 2023-12-26 184718](https://github.com/Davidmhvk/UAS-PI/assets/144786308/7a7db5cd-16e1-4202-86c0-657632cb99ac)
