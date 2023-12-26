@@ -82,13 +82,11 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ![Linux](https://github.com/Davidmhvk/UAS-PI/assets/144786308/1262e406-30f3-4fb4-9551-1c33dbd0ca48)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+![algorritma flowchart](https://github.com/Davidmhvk/UAS-PI/assets/144786308/72b09148-3081-46cc-bce1-f014d49237a5)
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 https://github.com/Davidmhvk/UAS-PI/blob/main/FlowChart%20Algoritma.png
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-![algorritma flowchart](https://github.com/Davidmhvk/UAS-PI/assets/144786308/7bd0b8e9-17f3-4f22-a654-51e7bd163b3c)
-
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
