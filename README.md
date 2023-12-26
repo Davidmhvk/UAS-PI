@@ -79,6 +79,7 @@ Setiap jenis mesin komputasi memiliki karakteristik dan kegunaan yang berbeda-be
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+![Linux](https://github.com/Davidmhvk/UAS-PI/assets/144786308/1262e406-30f3-4fb4-9551-1c33dbd0ca48)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
