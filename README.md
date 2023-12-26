@@ -1,10 +1,73 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-
+https://aradeathinking.wordpress.com
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Mesin komputasi adalah perangkat keras yang dirancang untuk melakukan operasi pengolahan data dan menjalankan program-program perangkat lunak. Berbagai jenis mesin komputasi telah berkembang seiring waktu untuk memenuhi berbagai kebutuhan dan tuntutan aplikasi. Berikut adalah beberapa jenis mesin komputasi yang umum:
 
-## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+Komputer Pribadi (Personal Computer - PC):
+
+Deskripsi: Komputer yang dirancang untuk digunakan oleh satu orang pada satu waktu.
+
+Contoh: Desktop PC, Laptop, Workstation.
+
+Server:
+
+Deskripsi: Komputer yang dirancang untuk menyediakan layanan atau sumber daya kepada komputer lain dalam jaringan.
+
+Contoh: Server web, server database, server file.
+
+Mainframe:
+
+Deskripsi: Komputer berukuran besar yang dirancang untuk menangani volume data besar dan melayani banyak pengguna secara bersamaan.
+
+Contoh: IBM zSeries, IBM System z.
+
+Superkomputer:
+
+Deskripsi: Komputer paling kuat dan cepat, dirancang untuk menangani perhitungan intensif dan masalah kompleks dalam ilmu pengetahuan dan rekayasa.
+
+Contoh: Summit, Tianhe-2.
+
+Mikrokontroler:
+
+Deskripsi: Komputer terintegrasi ke dalam suatu chip yang digunakan untuk mengontrol fungsi-fungsi tertentu dalam suatu sistem atau perangkat.
+
+Contoh: Arduino, Raspberry Pi.
+
+Embedded Systems:
+
+Deskripsi: Sistem yang terdiri dari komputer dan perangkat keras terkait yang tertanam dalam suatu produk atau sistem lebih besar.
+
+Contoh: Sistem kontrol otomotif, sistem kontrol peralatan rumah tangga.
+
+Komputer Kuantum:
+
+Deskripsi: Menggunakan prinsip-prinsip kuantum untuk melakukan perhitungan yang jauh lebih cepat dibandingkan dengan komputer klasik.
+
+Contoh: IBM Q System One, Google Sycamore.
+
+Komputer Tablet dan Smartphone:
+
+Deskripsi: Perangkat portabel dengan kemampuan komputasi, berbasis layar sentuh dan sering kali dilengkapi dengan koneksi internet.
+
+Contoh: iPad, Samsung Galaxy, iPhone.
+
+Komputer Wearable:
+
+Deskripsi: Komputer yang dapat dikenakan pada tubuh atau diintegrasikan dengan pakaian atau aksesori.
+
+Contoh: Smartwatch, Augmented Reality (AR) glasses.
+
+Komputer Kognitif:
+
+Deskripsi: Komputer yang dirancang untuk meniru kemampuan kognitif manusia, seperti pemahaman bahasa alami dan pengambilan keputusan.
+
+Contoh: IBM Watson.
+
+Setiap jenis mesin komputasi memiliki karakteristik dan kegunaan yang berbeda-beda, dan penggunaannya tergantung pada kebutuhan spesifik dalam suatu konteks aplikasi atau industri
+
+## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 ## Mencoba Console Sistem Operasi
 
