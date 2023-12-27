@@ -167,7 +167,7 @@ https://youtu.be/xoDTlAxCgG8
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://youtu.be/jXaRIr_ASms
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
+https://youtu.be/Y5c-bJOeFx8
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
