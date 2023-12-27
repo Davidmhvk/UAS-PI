@@ -5,8 +5,7 @@ https://aradeathinking.wordpress.com
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 https://aradeathinking.wordpress.com
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-![google colab](https://github.com/Davidmhvk/UAS-PI/assets/144786308/ebcfd79c-36d7-4f9e-b7b5-73cb808c4638)
-
+https://youtu.be/7O-pEnIog18
 ## Mencoba Console Sistem Operasi
 ![Screenshot 2023-12-26 184718](https://github.com/Davidmhvk/UAS-PI/assets/144786308/7a7db5cd-16e1-4202-86c0-657632cb99ac)
 
