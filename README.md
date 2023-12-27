@@ -1,9 +1,9 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-https://aradeathinking.wordpress.com
+https://aradeathinking.wordpress.com/2023/12/23/computational-thinking/
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-https://aradeathinking.wordpress.com
+https://aradeathinking.wordpress.com/2023/12/27/jenis-jenis-mesin-komputasi/
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 https://youtu.be/7O-pEnIog18
 ## Mencoba Console Sistem Operasi
@@ -15,7 +15,7 @@ https://youtu.be/7O-pEnIog18
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-https://aradeathinking.wordpress.com
+https://aradeathinking.wordpress.com/2023/12/27/terminal-linux-menggunakan-google-colab/
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ![algorritma flowchart](https://github.com/Davidmhvk/UAS-PI/assets/144786308/72b09148-3081-46cc-bce1-f014d49237a5)
 
