@@ -28,6 +28,44 @@ https://github.com/Davidmhvk/UAS-PI/blob/main/FlowChart%20Algoritma.png
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+  
+    public class BubbleSort {
+      public static void main(String[] args) {
+        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+
+        System.out.println("Array sebelum diurutkan:");
+        printArray(arr);
+
+        bubbleSort(arr);
+
+        System.out.println("\nArray setelah diurutkan:");
+        printArray(arr);
+      }
+
+    // Metode untuk mengeksekusi algoritma Bubble Sort
+      static void bubbleSort(int[] arr) {
+          int n = arr.length;
+          for (int i = 0; i < n-1; i++) {
+              for (int j = 0; j < n-i-1; j++) {
+                // Bandingkan elemen ke j dan j+1
+                  if (arr[j] > arr[j+1]) {
+                    // Tukar elemen jika diperlukan
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                  }
+              }
+          }
+      }
+
+    // Metode untuk mencetak array 
+        static void printArray(int[] arr) {
+          int n = arr.length;
+          for (int i=0; i < n; ++i)
+          System.out.print(arr[i] + " ");
+          System.out.println();
+        }
+    }
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
