@@ -165,7 +165,7 @@ https://youtu.be/G7In7gC1K0E
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 https://youtu.be/xoDTlAxCgG8
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+https://youtu.be/jXaRIr_ASms
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
