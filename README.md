@@ -157,9 +157,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
+![Tugas Akhir](https://github.com/Davidmhvk/UAS-PI/assets/144786308/be52176c-3a4c-487f-b13b-bc1221381e1c)
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
+https://youtu.be/yyJKa45w6sQ
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://youtu.be/G7In7gC1K0E
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
