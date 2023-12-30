@@ -171,7 +171,7 @@ https://youtu.be/Y5c-bJOeFx8
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 https://youtu.be/rEjF0DR8-0A
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-
+https://youtu.be/RzyhBCvfiFg
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://www.linkedin.com/in/david-aradea-ba61642a7/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
