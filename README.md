@@ -69,7 +69,7 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 https://youtu.be/Krrlnq4tBQw
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-
+https://youtu.be/lRpQZiV1ZZU
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
