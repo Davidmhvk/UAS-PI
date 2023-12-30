@@ -1,3 +1,4 @@
+
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
@@ -74,6 +75,7 @@ https://youtu.be/lRpQZiV1ZZU
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://drive.google.com/file/d/1nQjfFhZ69-xEoN_hMDVjJtNP4AGrv7Jb/view?usp=drive_link
+
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
