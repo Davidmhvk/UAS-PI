@@ -177,6 +177,6 @@ https://www.linkedin.com/in/david-aradea-ba61642a7/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/Davidmhvk
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-![course](https://github.com/Davidmhvk/UAS-PI/assets/144786308/990a8c6c-ad7e-4532-bf65-b4611d60a662)
+![Screenshot 2023-12-30 222415](https://github.com/Davidmhvk/UAS-PI/assets/144786308/125d0d5c-d137-480b-a842-bc936a54c38c)
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 https://aradeathinking.wordpress.com/2023/12/30/book-review-my-robot-gets-me/
